@@ -5,4 +5,4 @@ This is a page that handles some sample views of my projects
 https://finallyegg.github.io/RDataScience_Project/
 
 ## Jupyter NoteBook EM - practice
-[File](Tiny sample project.html)
+[File](Sample-Projects/Tiny_sample_project.html)
